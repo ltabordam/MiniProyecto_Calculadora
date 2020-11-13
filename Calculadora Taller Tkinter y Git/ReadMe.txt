@@ -7,4 +7,5 @@ la dirección de la imagen.
 
 Imagen de https://icon-icons.com/es/download/30001/ICO/512/
 
- ![alt tag](Calculadora Taller Tkinter y Git/Images calculadora/Calculadora blanco.png)
+ ![Calculadora](https://user-images.githubusercontent.com/72813177/99114811-72352980-25bf-11eb-81f7-92211602c6fc.png)
+
